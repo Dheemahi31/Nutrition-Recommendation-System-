@@ -12,9 +12,9 @@ A web-based Nutrition Recommendation System that provides personalized diet sugg
 - Web-based application
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript / React
+- Frontend: HTML, CSS, React
 - Backend: Python / Java / Node.js
 - Database: MySQL / MongoDB
 
 ## Author
-Your Name
+Devathi Yasaswini Dheemahi
